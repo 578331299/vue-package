@@ -1,4 +1,4 @@
-## 提交本地代码到git##
+## 提交本地代码到git
 
 
 ### 1.setting the ssh ###
