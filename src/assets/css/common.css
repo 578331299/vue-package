@@ -1,0 +1,37 @@
+.chare_box {
+    width: 100%;
+    height: 440px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+    min-width: 1300px !important;
+  }
+  
+  .button_box{
+      display: flex;
+      justify-content: center;
+  }
+  .button_box button{
+      margin-left: 15px;
+  }
+  .el-menu--vertical{
+      /* bottom:20px; */
+  }
+  .special_menu{
+     color: red;
+  }
+  .content_box {
+    width: 100%;
+    height: 100%;
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+.anchorBL{
+    display: none;
+}
+.BMap_noprint{
+    display: none;
+}
