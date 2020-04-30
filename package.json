@@ -12,7 +12,7 @@
     "babel-polyfill": "^6.26.0",
     "echarts": "^4.2.1",
     "element-ui": "^2.4.11",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "js-md5": "^0.7.3",
     "mavon-editor": "^2.6.17",
     "vue": "^2.5.21",
@@ -30,7 +30,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.2.0",
     "@vue/cli-service": "^3.2.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "vue-template-compiler": "^2.5.21",
